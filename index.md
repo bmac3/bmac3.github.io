@@ -19,4 +19,7 @@ A. Persaud, B. Ludewigt, M. Ayllon Unzueta, B. Mak, E. Brodie, C. Castanha, C. H
 
 Thomas Schenkel, K. Nakamura, P. Seidl, B. Mak, A. Snijders, L. Obst-Huebl, A. Persaud, J. van Tilborg, T. Ostermayr, S. Steinke, H.-E. Tsai, E. Blakely, J.-H. Mao, Q. Ji, I. Pong, C.G.R. Geddes, C. Schroeder, E. Esarey, 2020, ”Detecting SARS-CoV-2 in Droplets by Mass Spectrometry and Imaging with High Power Lasers”, APS-DPP, 2020-11-11
 
+## Contact Info
+
+Email: bmak2@ucsc.edu
 
